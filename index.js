@@ -1,6 +1,6 @@
-const userInput = require("./lib/userInput");
-const createSVG = require("./lib/createSVG");
-const writeToFile = require("./lib/writeToFile");
+const userInput = require("./library/userInput");
+const createSVG = require("./library/createSVG");
+const writeToFile = require("./library/writeToFile");
 
 function main() {
    // prompt the user
