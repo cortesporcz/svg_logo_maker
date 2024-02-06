@@ -80,12 +80,12 @@ In order to test this application, clone the repository code and run the applica
 
 ## Credits
 
- Classmates Joshua Hale and Gabe Harvey for their support and guidance on getting everything situated. f
+ Classmates Joshua Hale and Gabe Harvey for their support and guidance on getting everything situated.
 
 ## Questions
 
-[GitHub Repository]
-()
+https://github.com/cortesporcz/svg_logo_maker
+
 For any additional questions, feel free to reach out via email at [cortesporcz@gmail.com](mailto:cortesporcz@gmail.com)
 
 ## License
