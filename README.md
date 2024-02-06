@@ -52,31 +52,35 @@ WHEN user opens the `logo.svg` file in a browser, a 300x200 pixel image is shown
 The following a walkthrough video shows the application appearance and functionality:
 
 
-[walkthrough image]()
+https://drive.google.com/file/d/1z-8Qaw7xwp7zlD1BSVbPKF0tXOs9pSMR/view
 
  **Mock-Ups**
  
  
  **Example #1**
 
-The following image shows a mock-up of the generated SVG given the following input entered by the user: SVG for the text, white for the text color, circle from the list of shapes, and green for the shape color. Note that this is just an image of the output SVG and not the SVG file itself: 
+The following image shows a mock-up of the generated SVG given the following input entered by the user: AMC for the text, blue for the text color, circle from the list of shapes, and purple for the shape color.  
 
-![Image showing a green circle with white text that reads "SVG"](/assests/image-1.png)
+![Image showing a purple circle with blue text that reads "AMC"](./examples/amcsvg.png)
 
  **Example #2**
 
-The following image shows a mock-up of the generated SVG given the following input entered by the user: CPS for the text, white for the text color, sqaure from the list of shapes, and #663399 for the shape color. Note that this is just an image of the output SVG and not the SVG file itself:
-![Image showing a purple square with white text that reads "CPS"](/assests/image-3.png)
+The following image shows a mock-up of the generated SVG given the following input entered by the user: OJP for the text, yellow for the text color, sqaure from the list of shapes, and brown for the shape color. 
+![Image showing a purple square with white text that reads "OJP"](./examples/ojpsvg.png)
 
+**Example #3**
+
+The following image shows a mock-up of the generated SVG given the following input entered by the user: SOP for the text, purple for the text color, sqaure from the list of shapes, and pink for the shape color. 
+![Image showing a purple square with white text that reads "SOP"](./examples/sopsvg.png)
 
 
 ## Tests
 
-In order to test this application, clone the repository code and run the application in your terminal by running code 'node index.js'. Answer all the prompt questions. When completed,open the `logo.svg` file in a browser, and confirm that the image shown matches the criteria that was enterd.  
+In order to test this application, clone the repository code and run the application in your terminal by running code 'node index.js'. Answer all the prompt questions.  
 
 ## Credits
 
- No contributors at this time
+ Classmates Joshua Hale and Gabe Harvey for their support and guidance on getting everything situated. f
 
 ## Questions
 
